@@ -1,6 +1,6 @@
 ---
 title: Test Food Item
-cetegories:
+categories:
   - lunch
 description: This is Sample Ingrediensts
 type: Sushi
